@@ -15,4 +15,4 @@ Any success will output on the terminal and respective username will be removed 
 
 OS: Linux
 
-Command to Run: python cracky.py <filename having username and hashes in username:id:LMHASH:NTLMHASH format>
+Command to Run: python cracky.py Filename
