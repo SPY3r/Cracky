@@ -14,3 +14,5 @@ Finally, the script will use usernames and create combinations to crack the rema
 Any success will output on the terminal and respective username will be removed from the list of remaining to be cracked.   How to improve the output of the script? Update the "append.txt" file and add the cracked passwords to the wordlist which can be used next time. 
 
 OS: Linux
+
+Command to Run: python cracky.py <filename having username and hashes in username:id:LMHASH:NTLMHASH format>
